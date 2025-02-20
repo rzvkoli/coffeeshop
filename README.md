@@ -6,7 +6,7 @@
 
 **_in v 1.0 :_**
 
-- _React_
+- _React 18.2.0_
 - _React router_
 - _Recoil_
 - _Tailwind_
