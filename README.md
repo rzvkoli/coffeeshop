@@ -1,4 +1,4 @@
-**_Coffee Shop_
+_Coffee Shop_
 
 ## 📦 Project Dependencies
 
