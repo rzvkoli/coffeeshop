@@ -1,4 +1,4 @@
-# ☕ Coffee Shop  
+**# Coffee Shop**  
 **_Coffee Shop_**
 
 **## 📦 Project Dependencies**
