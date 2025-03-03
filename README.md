@@ -1,7 +1,6 @@
-<h1>Coffee Shop</h1>
-**_Coffee Shop_**
+**_Coffee Shop_
 
-**## 📦 Project Dependencies**
+## 📦 Project Dependencies
 
 - _React 18.2.0_
 - _React router_
