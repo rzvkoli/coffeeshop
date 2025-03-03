@@ -7,5 +7,3 @@
 - Swetalert 2
 - React icons
 - React spring 
-
----
