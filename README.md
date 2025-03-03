@@ -1,10 +1,15 @@
-📦 Dependencies
-این پروژه با استفاده از تکنولوژی‌های زیر توسعه یافته است:
+# ☕ Coffee Shop  
 
-✅ React 18.2.0 – برای ساخت رابط کاربری پویا و کارآمد
-✅ React Router – برای مدیریت مسیرها و ناوبری بین صفحات
-✅ Recoil – برای مدیریت حرفه‌ای و ساده‌ی وضعیت (State Management)
-✅ Tailwind CSS – برای طراحی زیبا، سریع و انعطاف‌پذیر
-✅ React Icons – مجموعه‌ای از آیکون‌های زیبا و کاربردی
-✅ SweetAlert2 – برای نمایش اعلان‌های تعاملی و جذاب
-✅ React Spring – برای انیمیشن‌های نرم و چشم‌نواز
+## 📦 Project Dependencies  
+
+This project is powered by the following technologies:  
+
+✅ **React 18.2.0** – For building dynamic and efficient user interfaces  
+✅ **React Router** – For seamless navigation and routing  
+✅ **Recoil** – A simple and powerful state management library  
+✅ **Tailwind CSS** – For fast, beautiful, and responsive styling  
+✅ **React Icons** – A collection of elegant and useful icons  
+✅ **SweetAlert2** – For interactive and stylish alerts  
+✅ **React Spring** – For smooth and delightful animations  
+
+---
