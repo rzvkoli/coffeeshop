@@ -1,13 +1,11 @@
-# Coffee Shop
-
-## 📦 Project Dependencies
+# Coffee Shop - Project Dependencies 📦
 
 - React 18.2.0
-- React router
 - Recoil
+- React router
 - Tailwind
-- React icons
 - Swetalert 2
+- React icons
 - React spring 
 
 ---
