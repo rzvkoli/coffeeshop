@@ -2,12 +2,12 @@ _Coffee Shop_
 
 ## 📦 Project Dependencies
 
-- _React 18.2.0_
-- _React router_
-- _Recoil_
-- _Tailwind_
-- _React icons_
-- _Swetalert 2_
-- _React spring_ 
+- React 18.2.0
+- React router
+- Recoil
+- Tailwind
+- React icons
+- Swetalert 2
+- React spring 
 
 ---
