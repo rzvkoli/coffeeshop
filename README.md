@@ -1,4 +1,4 @@
-**# Coffee Shop**  
+**<h1>Coffee Shop</h1>**  
 **_Coffee Shop_**
 
 **## 📦 Project Dependencies**
